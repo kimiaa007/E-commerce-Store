@@ -7,7 +7,6 @@ Full-featured online store.
 - Payment gateway
 - Order management
 - Inventory
-
 ## Tech Stack
 - Node.js
 - Express
